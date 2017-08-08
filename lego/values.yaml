@@ -1,0 +1,9 @@
+config:
+  ## Email address to use for registration with Let's Encrypt
+  LEGO_EMAIL: ow.diehl@gmail.com
+  ##
+
+  ## Let's Encrypt API endpoint
+  ## Production: https://acme-v01.api.letsencrypt.org/directory
+  ## Staging: https://acme-staging.api.letsencrypt.org/directory
+  LEGO_URL: https://acme-v01.api.letsencrypt.org/directory
