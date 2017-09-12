@@ -1,6 +1,6 @@
 config:
   ## Email address to use for registration with Let's Encrypt
-  LEGO_EMAIL: ow.diehl@gmail.com
+  # LEGO_EMAIL: <REDACTED>
   ##
 
   ## Let's Encrypt API endpoint
